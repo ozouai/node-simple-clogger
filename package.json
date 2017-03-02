@@ -1,0 +1,9 @@
+{
+  "name": "simple-logger",
+  "version": "0.0.0",
+  "description": "SimpleLogger",
+  "main": "app.js",
+  "author": {
+    "name": "omarz"
+  }
+}
