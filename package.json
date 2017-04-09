@@ -1,9 +1,23 @@
 {
-  "name": "simple-logger",
-  "version": "0.0.0",
-  "description": "SimpleLogger",
+  "name": "simple-clogger",
+  "version": "1.0.6",
+  "description": "Simple CLogger, a simple and fast color enabled logger with custom transports",
   "main": "app.js",
-  "author": {
-    "name": "omarz"
-  }
+  "author": "omar@omarzouai.com",
+  "typings": "ts/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zzarzzur/SimpleLogger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozouai/node-simple-clogger/issues"
+  },
+  "homepage": "https://github.com/ozouai/node-simple-clogger#README"
 }

@@ -1,0 +1,12 @@
+﻿bin/
+obj/
+typings/
+Scripts/
+.gitattributes
+.gitignore
+.vs/
+.git/
+*.njsproj
+*.sln
+/*.ts
+*.js.map
