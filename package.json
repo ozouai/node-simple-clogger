@@ -1,6 +1,6 @@
 {
   "name": "simple-clogger",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Simple CLogger, a simple and fast color enabled logger with custom transports",
   "main": "app.js",
   "author": "omar@omarzouai.com",
