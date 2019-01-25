@@ -8,5 +8,4 @@ Scripts/
 .git/
 *.njsproj
 *.sln
-/*.ts
 *.js.map
