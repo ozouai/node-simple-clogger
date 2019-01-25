@@ -1,10 +1,10 @@
 {
   "name": "simple-clogger",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple CLogger, a simple and fast color enabled logger with custom transports",
   "main": "app.js",
   "author": "omar@omarzouai.com",
-  "typings": "ts/index.d.ts",
+  "typings": "appts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ozouai/node-simple-clogger/issues"
   },
-  "homepage": "https://github.com/ozouai/node-simple-clogger#README"
+  "homepage": "https://github.com/ozouai/node-simple-clogger#README",
+  "dependencies": {
+    "@types/node": "^10.12.18"
+  }
 }
