@@ -1,10 +1,10 @@
 {
   "name": "simple-clogger",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Simple CLogger, a simple and fast color enabled logger with custom transports",
   "main": "app.js",
   "author": "omar@omarzouai.com",
-  "typings": "appts",
+  "typings": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
